@@ -1,0 +1,4 @@
+In starting when we start our app 
+1. it will trigger the first join event which join the client in room
+2.send message event than server create recive message event
+3.leave room event
